@@ -1,0 +1,20 @@
+.quem-somos__titulo{
+    padding: 0.55rem;
+    font-family: Pacifico, cursive;
+    font-weight: 400;
+    font-size: 51px;
+    color: #8D0606;
+    text-align: center;
+    }
+
+    @media screen and (min-width: 0) {
+        .quem-somos__titulo{
+            text-align: center;
+        }
+    }
+    
+    @media screen and (min-width: 768px) {
+        .quem-somos__titulo{
+            text-align: center;
+        }
+    }
